@@ -1,4 +1,7 @@
 # Aurora Node Pro
+![](https://img.shields.io/badge/Android-5.0%20--%2012-blue.svg?style=flat)
+![](https://img.shields.io/badge/arch-armeabi--v7a%20%7C%20arm64--v8a%20%7C%20x86%20%7C%20x86__64-blue.svg?style=flat)  
+
 欢迎使用 Aurora Node Pro，这是一个原生实现的 Node 运行环境。  
 此版本是 [NodeAurora](https://github.com/BuShe-LLC/NodeAurora) 的 **Pro** 版本，相比 NodeAurora，此版本包含以下特性：
 * 🌟 不再需要动态原生支持库
